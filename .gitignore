@@ -1,0 +1,25 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore Virtual Environment
+.venv/
+env/
+venv/
+
+# Ignore IDE Files
+.idea/
+*.iml
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+*.log
+
+# Ignore dataset & large files (if needed)
+*.csv
+*.xlsx
+*.h5
